@@ -1,0 +1,18 @@
+{
+  "id": "fuck_workshop",
+  "name": "tModLoader创意工坊补丁",
+  "description": "阻止同步模组时的创意工坊验证",
+  "version": "1.0.0",
+  "author": "Cai",
+  "dllFileName": "FuckWorkshop.dll",
+  "entryPoint": {
+    "typeName": "FuckWorkshop.Patcher",
+    "methodName": "Initialize"
+  },
+  "targetGames": [
+    "tModLoader",
+    "Terraria"
+  ],
+  "priority": 200,
+  "enabled": true
+}
