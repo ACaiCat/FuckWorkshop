@@ -4,5 +4,4 @@ RAL插件，因为GOG版tModLoader无法调用创意工坊API会导致UI等待�
 ## 安装方法
 
 1. 从Release中下载`fuck_workshop.zip`
-2. 解压到`/storage/emulated/0/Android/data/com.app.ralaunch/files/patches`
-3. 进入游戏即可
+2. 直接在RAL中导入即可
